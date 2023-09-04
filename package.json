@@ -1,7 +1,6 @@
 {
   "name": "@regreaves/package",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/regreaves/my-other-repo.git"
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }

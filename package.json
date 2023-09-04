@@ -1,3 +1,7 @@
 {
-  "name": "potential"
+  "name": "@regreaves/package",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/regreaves/my-other-repo.git"
+  }
 }
